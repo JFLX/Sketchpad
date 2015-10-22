@@ -1,0 +1,41 @@
+.title {
+	text-align: center;
+	font-family: sans-serif;
+}
+.input{
+	text-align: center;
+	margin-bottom: 10px;
+}
+.input button{
+	margin-right: 10px;
+	margin-left: 10px;
+	background-color: RoyalBlue;
+	color: white;
+	border: 1px solid RoyalBlue;
+	border-radius: 2.5px;
+}
+.grid {
+	width: 50%;
+	height: 100%;
+	margin: auto;
+}
+.square{
+	display: table-cell;
+	background-color: white;
+	border: 1px solid black;
+}
+.row{
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	display: table;
+}
+.hover{
+	background-color: gray;
+}
+.removeBorder{
+	border-color: white;
+}
+.border{
+	border: 1px solid black;
+}
